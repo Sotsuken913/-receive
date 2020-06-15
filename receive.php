@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>練習問題</title>
-	<link rel="stylesheet" href="reserv.css">
+	<link rel="stylesheet" href="receive.css">
 </head>
 <body>
 <?php
